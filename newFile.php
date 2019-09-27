@@ -9,4 +9,8 @@
   }
   
   echo "测试";
+
+  function test(){
+    return array('status'=>0,'msg'=>'测试');
+  }
 ?>
